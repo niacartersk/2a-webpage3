@@ -39,3 +39,9 @@ h1 {
   column-gap: 40px;
   column-rule-style: solid;
 }
+
+#woman {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(woman.png) 30 round;
+}
