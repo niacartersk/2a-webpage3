@@ -23,6 +23,10 @@ h1 {
   cursor: pointer;
 }
 
+.button:hover{
+  border: 5px solid #000; 
+}
+
 #intro {
   padding:8px;
   border:3px solid #cde3d7;
