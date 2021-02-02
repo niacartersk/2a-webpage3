@@ -43,5 +43,5 @@ h1 {
 #woman {
   border: 10px solid transparent;
   padding: 15px;
-  border-image: url(woman.png) 30 round;
+  border-image: url(whiteborder.png) 30 round;
 }
