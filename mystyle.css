@@ -49,6 +49,7 @@ h1 {
 }
 
 #grad1 {
+  height:700px
   background-color: #d7cde3; /* For browsers that do not support gradients */
   background-image: linear-gradient(to bottom right, #d7cde3, #735597);
 }
